@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TebeckCollins
-- 👀 I’m interested in coding alot
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning web applications and mobile apps. 
 - 💞️ I’m looking to collaborate on mobile app development. 
 - 📫 How to reach me @ collinstebeck@gmail.com or http://wa.me/+237670431744
